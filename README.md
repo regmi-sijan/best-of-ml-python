@@ -1,4 +1,3 @@
-##<!-- markdownlint-disable -->
 <h1 align="center">
     Best-of Machine Learning with Python
     <br>
